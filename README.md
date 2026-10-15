@@ -17,14 +17,14 @@ Companion repository for the *Parvimonas* pangenome manuscript (jonbakerlab/parv
 
 | Tool | Used for | Version |
 |---|---|---|
-| ncbi-genome-download | Genome download | TODO |
-| NCBI `datasets` / `dataformat` | Assembly metadata | TODO |
-| anvi'o (`anvio-dev` env) | Pangenomics workflow, 16S HMM extraction | TODO |
-| MUSCLE (>=5,<6) | Alignment inside `anvi-pan-genome` | TODO |
-| R (readxl, dplyr, tidyr) | Metadata pivot table | TODO |
+| ncbi-genome-download | Genome download | 0.3.3 |
+| NCBI `datasets` / `dataformat` | Assembly metadata | 18.15.0 |
+| anvi'o (`anvio-dev` env) | Pangenomics workflow, 16S HMM extraction | active codebase |
+| MUSCLE (>=5,<6) | Alignment inside `anvi-pan-genome` | 5.3.linux64 |
+| R (readxl, dplyr, tidyr) | Metadata pivot table | 4.3.3 |
 | FAMSA (via `pyfamsa` 0.7.0) | 16S alignment | 0.7.0 (pyfamsa) |
-| IQ-TREE | 16S maximum-likelihood tree | TODO |
-| Python (Biopython, pandas, scipy, matplotlib) | ANI clustermap | TODO |
+| IQ-TREE | 16S maximum-likelihood tree | 2.3.6 |
+| Python (Biopython, pandas, scipy, matplotlib) | ANI clustermap | 3.10.14 |
 | SLURM (OHSU ARC) | Pangenome compute | n/a |
 
 ## 1. Genome retrieval and curation
