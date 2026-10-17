@@ -10,3 +10,5 @@ Average nucleotide identity (ANIb) and other results were calculated using pyani
 ```bash
 python3 make_ani_clustermap.py   # run from the project root
 ```
+
+Note that 4 of the 6 species-level clusters that have not been defined/named either in this study or previous studies contain strictly lower quality draft assemblies from GenBank fragmented into many contigs and possibly containing contamination, making it difficult to determine whether these will truly be additional species-level clades.
