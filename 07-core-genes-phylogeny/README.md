@@ -32,4 +32,4 @@ The resulting concatenated core genes `better-core2.fa` was used to make a tree 
 
 `iqtree -s better-core2.fa -nt 10 -m WAG -b 1000`
 
-
+The resulting `better-core2.fa.contree` file was re-rooted to *F. magna* using iToL.
