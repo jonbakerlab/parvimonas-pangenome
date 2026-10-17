@@ -144,9 +144,6 @@
     "anvi_get_sequences_for_gene_calls": {
         "threads": ""
     },
-    "gunzip_fasta": {
-        "threads": ""
-    },
     "reformat_external_gene_calls_table": {
         "threads": ""
     },
@@ -197,5 +194,5 @@
         "LOGS_DIR": "00_LOGS"
     },
     "max_threads": 12,
-    "config_version": "4",
+    "config_version": "6",
     "workflow_name": "pangenomics"
