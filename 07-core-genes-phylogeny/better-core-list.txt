@@ -1,0 +1,105 @@
+SynGC	Source	Accession	Function
+GC_00000328	COG24_FUNCTION	COG0353	Recombinational DNA repair protein RecR (RecR) (PDB:2JGR) (PUBMED:26337406)
+GC_00000328	KEGG_BRITE	ko00001 / ko03400 / ko03400	KEGG Orthology (KO)>>>09120 Genetic Information Processing>>>09124 Replication and repair>>>03440 Homologous recombination [PATH:ko03440] / DNA repair and recombination proteins>>>Prokaryotic type>>>DSBR (double strand breaks repair)>>>HR (homologous recombination)>>>RecFOR pathway proteins / DNA repair and recombination proteins>>>Prokaryotic type>>>DSBR (double strand breaks repair)>>>NHEJ (non-homologous end-joining)>>>SHDIR (short-homology-dependent illegitimate recombination)>>>RecET pathway
+GC_00000328	Pfam	PF13662.12	Toprim domain
+GC_00000328	COG24_CATEGORY	L	"Replication, recombination and repair"
+GC_00000328	KOfam	K06187	recombination protein RecR
+GC_00000328	COG24_PATHWAY	N/A	N/A
+GC_00000328	KEGG_Module	N/A	N/A
+GC_00000328	KEGG_Class	N/A	N/A
+GC_00000431	COG24_FUNCTION	COG1188	"Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain (HslR) (PDB:3BBU)"
+GC_00000431	KEGG_BRITE	ko03110	Chaperones and folding catalysts>>>Heat shock proteins>>>HSP15
+GC_00000431	Pfam	PF01479.30	S4 domain
+GC_00000431	COG24_CATEGORY	J	"Translation, ribosomal structure and biogenesis"
+GC_00000431	KOfam	K04762	ribosome-associated heat shock protein Hsp15
+GC_00000431	COG24_PATHWAY	N/A	N/A
+GC_00000431	KEGG_Module	N/A	N/A
+GC_00000431	KEGG_Class	N/A	N/A
+GC_00000432	COG24_FUNCTION	COG0799	"Ribosomal silencing factor RsfS, regulates association of 30S and 50S subunits (RsfS) (PDB:6SJ6)"
+GC_00000432	KEGG_BRITE	ko03009	Ribosome biogenesis>>>Prokaryotic type>>>Other maturation factors
+GC_00000432	Pfam	PF02410.21	Ribosomal silencing factor during starvation
+GC_00000432	COG24_CATEGORY	J	"Translation, ribosomal structure and biogenesis"
+GC_00000432	KOfam	K09710	ribosome-associated protein
+GC_00000432	COG24_PATHWAY	N/A	N/A
+GC_00000432	KEGG_Module	N/A	N/A
+GC_00000432	KEGG_Class	N/A	N/A
+GC_00000434	COG24_FUNCTION	COG0359	Ribosomal protein L9 (RplI) (PDB:1VS6_BH) (PUBMED:27112601)
+GC_00000434	KEGG_BRITE	ko00001 / ko03011 / ko03011	KEGG Orthology (KO)>>>09120 Genetic Information Processing>>>09122 Translation>>>03010 Ribosome [PATH:ko03010] / Ribosome>>>Ribosomal proteins>>>Mitochondria/ Chloroplast>>>Large subunit / Ribosome>>>Ribosomal proteins>>>Bacteria>>>Large subunit
+GC_00000434	Pfam	PF03948.19	"Ribosomal protein L9, C-terminal domain"
+GC_00000434	COG24_CATEGORY	J	"Translation, ribosomal structure and biogenesis"
+GC_00000434	KOfam	K02939	large subunit ribosomal protein L9
+GC_00000434	COG24_PATHWAY	COG0359	Ribosome 50S subunit
+GC_00000434	KEGG_Module	N/A	N/A
+GC_00000434	KEGG_Class	N/A	N/A
+GC_00000439	COG24_FUNCTION	N/A	N/A
+GC_00000439	KEGG_BRITE	N/A	N/A
+GC_00000439	Pfam	PF14584.11	Protein of unknown function (DUF4446)
+GC_00000439	COG24_CATEGORY	N/A	N/A
+GC_00000439	KOfam	N/A	N/A
+GC_00000439	COG24_PATHWAY	N/A	N/A
+GC_00000439	KEGG_Module	N/A	N/A
+GC_00000439	KEGG_Class	N/A	N/A
+GC_00000441	COG24_FUNCTION	COG0602	"Organic radical activating enzyme, includes 7-carboxy-7-deazaguanine synthase NrdG/QueE (QueE) (PDB:6NHL) (PUBMED:14660578;17384645)"
+GC_00000441	KEGG_BRITE	ko00001 / ko01000	KEGG Orthology (KO)>>>09190 Not Included in Pathway or Brite>>>09191 Unclassified: metabolism>>>99980 Enzymes with EC numbers / Enzymes>>>1. Oxidoreductases>>>1.97  Other oxidoreductases>>>1.97.1  Sole sub-subclass for oxidoreductases that do not belong in the other subclasses>>>1.97.1.4  [formate-C-acetyltransferase]-activating enzyme
+GC_00000441	Pfam	PF13353.11	4Fe-4S single cluster domain
+GC_00000441	COG24_CATEGORY	H	Coenzyme transport and metabolism
+GC_00000441	KOfam	K04068	anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]
+GC_00000441	COG24_PATHWAY	COG0602	tRNA modification
+GC_00000441	KEGG_Module	N/A	N/A
+GC_00000441	KEGG_Class	N/A	N/A
+GC_00000462	COG24_FUNCTION	COG3842	"ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component (PotA) (PDB:1Z47)"
+GC_00000462	KEGG_BRITE	ko00001 / ko01000 / ko02000	"KEGG Orthology (KO)>>>09130 Environmental Information Processing>>>09131 Membrane transport>>>02010 ABC transporters [PATH:ko02010] / Enzymes>>>7. Translocases>>>7.6  Catalysing the translocation of other compounds>>>7.6.2  Linked to the hydrolysis of a nucleoside triphosphate>>>7.6.2.11  ABC-type polyamine transporter / Transporters>>>ABC transporters, prokaryotic type>>>Mineral and organic ion transporters>>>Spermidine/putrescine transporter"
+GC_00000462	Pfam	PF00005.33	ABC transporter
+GC_00000462	COG24_CATEGORY	E	Amino acid transport and metabolism
+GC_00000462	KOfam	K11072	spermidine/putrescine transport system ATP-binding protein [EC:7.6.2.11]
+GC_00000462	COG24_PATHWAY	N/A	N/A
+GC_00000462	KEGG_Module	N/A	N/A
+GC_00000462	KEGG_Class	N/A	N/A
+GC_00000513	COG24_FUNCTION	COG0503	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein (Apt) (PDB:1QB7)
+GC_00000513	KEGG_BRITE	ko00001 / ko01000 / ko04147	KEGG Orthology (KO)>>>09100 Metabolism>>>09104 Nucleotide metabolism>>>00230 Purine metabolism [PATH:ko00230] / Enzymes>>>2. Transferases>>>2.4  Glycosyltransferases>>>2.4.2  Pentosyltransferases>>>2.4.2.7  adenine phosphoribosyltransferase / Exosome>>>Exosomal proteins>>>Exosomal proteins of other body fluids (saliva and urine)
+GC_00000513	Pfam	PF00156.33	Phosphoribosyl transferase domain
+GC_00000513	COG24_CATEGORY	F	Nucleotide transport and metabolism
+GC_00000513	KOfam	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]
+GC_00000513	COG24_PATHWAY	COG0503	Purine salvage
+GC_00000513	KEGG_Module	N/A	N/A
+GC_00000513	KEGG_Class	N/A	N/A
+GC_00000514	COG24_FUNCTION	COG0560	Phosphoserine phosphatase (SerB) (PDB:3N28)
+GC_00000514	KEGG_BRITE	N/A	N/A
+GC_00000514	Pfam	PF12710.13	haloacid dehalogenase-like hydrolase
+GC_00000514	COG24_CATEGORY	E	Amino acid transport and metabolism
+GC_00000514	KOfam	N/A	N/A
+GC_00000514	COG24_PATHWAY	COG0560	Serine biosynthesis
+GC_00000514	KEGG_Module	N/A	N/A
+GC_00000514	KEGG_Class	N/A	N/A
+GC_00000526	COG24_FUNCTION	COG1210	UTP-glucose-1-phosphate uridylyltransferase (GalU) (PDB:2E3D)
+GC_00000526	KEGG_BRITE	N/A	N/A
+GC_00000526	Pfam	PF00483.29	Nucleotidyl transferase
+GC_00000526	COG24_CATEGORY	M	Cell wall/membrane/envelope biogenesis
+GC_00000526	KOfam	N/A	N/A
+GC_00000526	COG24_PATHWAY	N/A	N/A
+GC_00000526	KEGG_Module	N/A	N/A
+GC_00000526	KEGG_Class	N/A	N/A
+GC_00000531	COG24_FUNCTION	COG2501	"Ribosome-associated RNA-binding protein YbcJ, S4-like RNA-binding protein (YbcJ) (PDB:1P9K) (PUBMED:36987847)"
+GC_00000531	KEGG_BRITE	ko03009	Ribosome biogenesis>>>Prokaryotic type>>>Other maturation factors
+GC_00000531	Pfam	PF13275.11	S4 domain
+GC_00000531	COG24_CATEGORY	J	"Translation, ribosomal structure and biogenesis"
+GC_00000531	KOfam	K14761	ribosome-associated protein
+GC_00000531	COG24_PATHWAY	N/A	N/A
+GC_00000531	KEGG_Module	N/A	N/A
+GC_00000531	KEGG_Class	N/A	N/A
+GC_00000534	COG24_FUNCTION	COG2812	"DNA polymerase III, gamma/tau subunits (DnaX) (PDB:1JR3)"
+GC_00000534	KEGG_BRITE	N/A	N/A
+GC_00000534	Pfam	PF13177.12	"DNA polymerase III, delta subunit"
+GC_00000534	COG24_CATEGORY	L	"Replication, recombination and repair"
+GC_00000534	KOfam	N/A	N/A
+GC_00000534	COG24_PATHWAY	N/A	N/A
+GC_00000534	KEGG_Module	N/A	N/A
+GC_00000534	KEGG_Class	N/A	N/A
+GC_00000552	COG24_FUNCTION	COG0521	Molybdopterin adenylyltransferase MoaB/MogA (MoaB) (PDB:1DI6) (PUBMED:32239579)
+GC_00000552	KEGG_BRITE	ko00001 / ko00001 / ko01000	"KEGG Orthology (KO)>>>09100 Metabolism>>>09108 Metabolism of cofactors and vitamins>>>00790 Folate biosynthesis [PATH:ko00790] / KEGG Orthology (KO)>>>09120 Genetic Information Processing>>>09123 Folding, sorting and degradation>>>04122 Sulfur relay system [PATH:ko04122] / Enzymes>>>2. Transferases>>>2.7  Transferring phosphorus-containing groups>>>2.7.7  Nucleotidyltransferases>>>2.7.7.75  molybdopterin adenylyltransferase"
+GC_00000552	Pfam	PF00994.29	Probable molybdopterin binding domain
+GC_00000552	COG24_CATEGORY	H	Coenzyme transport and metabolism
+GC_00000552	KOfam	K03831	molybdopterin adenylyltransferase [EC:2.7.7.75]
+GC_00000552	COG24_PATHWAY	COG0521	Molybdopterin biosynthesis
+GC_00000552	KEGG_Module	M00880	"Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"
+GC_00000552	KEGG_Class	M00880	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
