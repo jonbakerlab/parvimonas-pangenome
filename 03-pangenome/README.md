@@ -1,6 +1,6 @@
 ## 3. Pangenome construction (anvi'o)
 
-The anvi'o pangenomics workflow was run with a customized `pan-default.json` (threads and job counts adjusted):
+The anvi'o pangenomics workflow was run with a customized `pan-default.json` (threads and job counts adjusted, available in this folder):
 
 ```bash
 anvi-run-workflow -w pangenomics -c pan-default.json
@@ -23,4 +23,4 @@ srun anvi-pan-genome \
   --mcl-inflation 4
 ```
 
-Submitted with `sbatch run_pangenome.sh` (job script contents are in `october-scripts.sh`).
+Submitted with `sbatch run_pangenome.sh` (shell script in this folder).
