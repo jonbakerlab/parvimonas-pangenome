@@ -16,10 +16,9 @@ Findings:
 - The extracted file is not an alignment, so it was aligned with FAMSA after simplifying the FASTA headers to `{bin_id}_{gene_callers_id suffix}` (IQ-TREE requires equal-length sequences and simple names).
 - A first IQ-TREE run on all 76 sequences produced `16S_all_aligned.fa.contree` dominated by zero-length branches (42 distinct sequences, several shared across genomes).
 - To simplify the tree, one 16S copy per genome was retained: the copy with the lowest summed mismatches to the other copies of that genome (a medoid) using `rep-selection.sh`. Within-genome copies differed by up to 12 mismatches. Columns that were all gaps after subsetting were removed (1530 columns, 25 sequences) using `reconstruct-final-alignment.sh`.
-- A final tree was rooted on *Finegoldia magna* using:
+- A final tree `16S_representatives_aligned.fa.contree` was created and rooted on *Finegoldia magna* using:
 
 ```bash
 iqtree2 -s 16S_representatives_aligned.fa -m MFP -B 1000 -T AUTO -o Finegoldia_magna
 ```
 
-Files: `16S_alignment-complete-only.txt` (raw extraction), `16S_simple-deflines.fa`, `16S_aligned.fa`, `16S_lengths.tsv`, `16S_identical_per_bin.tsv`, `16S_representatives_aligned.fa`, `16S_representatives.tsv` (which copy was kept per genome).
