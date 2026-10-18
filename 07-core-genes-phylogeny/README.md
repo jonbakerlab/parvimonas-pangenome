@@ -30,6 +30,6 @@ anvi-get-sequences-for-gene-clusters \
 
 The resulting concatenated core genes `better-core2.fa` was used to make a tree with `iqtree2`: 
 
-`iqtree -s better-core2.fa -nt 10 -m WAG -b 1000`
+`iqtree -s better-core2.fa -nt 10 -m WAG -B 1000`
 
 The resulting `better-core2.fa.contree` file was re-rooted to *F. magna* using iToL. Annotations for the 13 single-copy core genes used are provided in `better-core-list.txt` and include RecR, HslR, RsfS, RplL, NrdG, PotA, Apt, SerB, GalU, YbcJ, DnaX, MoaB, and a conserved hypothetical containing a DUF4446 domain.
