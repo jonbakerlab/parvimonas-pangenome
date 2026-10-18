@@ -1,4 +1,4 @@
-## 5. 16S rRNA analysis
+## 05. 16S rRNA analysis
 
 16S sequences were extracted from the 25 complete genomes (`external-genomes-complete.txt`) using the anvi'o HMM hits:
 

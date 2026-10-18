@@ -1,0 +1,143 @@
+name	Assembly Level	Assembly Release Date	isolation_source	geo_loc_name	Assembly Accession
+Parvimonas_micra_GCF_900637905_1	Complete Genome	12/20/18	not available: to be reported later	NA	GCF_900637905.1
+Parvimonas_micra_GCF_000800295_1	Complete Genome	12/9/14	periapical abscess	Korea: Gwangju	GCF_000800295.1
+Parvimonas_micra_GCF_003454775_1	Complete Genome	9/5/18	Postoperative maxillary cyst	South Korea: Gwangju	GCF_003454775.1
+Parvimonas_micra_GCF_003938725_1	Contig	12/11/18	clinical isolate	missing	GCF_003938725.1
+Parvimonas_micra_GCF_008633155_1	Scaffold	9/18/19	S3_lung abscess	"Japan:Hyougo, Himeji-city, National Hospital Organization Himeji Medical Center"	GCF_008633155.1
+Parvimonas_micra_GCF_015263295_1	Contig	11/6/20	saliva	USA: UCLA School of Dentistry	GCF_015263295.1
+Parvimonas_micra_GCF_021300775_1	Scaffold	12/27/21	oral saliva	China: Dalian	GCF_021300775.1
+Parvimonas_micra_GCF_023147965_1	Contig	4/27/22	ocular surface of healthy person	China:Shanxi	GCF_023147965.1
+Parvimonas_micra_GCF_023148065_1	Scaffold	4/27/22	ocular surface of healthy person	China:Shanxi	GCF_023148065.1
+Parvimonas_micra_GCF_023148105_1	Scaffold	4/27/22	ocular surface of healthy person	China:Shanxi	GCF_023148105.1
+Parvimonas_micra_GCF_023148225_1	Scaffold	4/27/22	ocular surface of healthy person	China:Shanxi	GCF_023148225.1
+Parvimonas_micra_GCF_027460305_1	Contig	12/27/22	female 63 year old colorectal cancer patient 79 colon adenocarcinoma	Spain: Galicia	GCF_027460305.1
+Parvimonas_micra_GCF_027460315_1	Contig	12/27/22	male 66 year old colorectal cancer patient 94 gingival crevicular fluid	Spain: Galicia	GCF_027460315.1
+Parvimonas_micra_GCF_027460345_1	Contig	12/27/22	female 63 year old colorectal cancer patient 79 colon adenocarcinoma	Spain: Galicia	GCF_027460345.1
+Parvimonas_micra_GCF_027460365_1	Contig	12/27/22	female 63 year old colorectal cancer patient 79 colon adenocarcinoma	Spain: Galicia	GCF_027460365.1
+Parvimonas_micra_GCF_027474905_1	Complete Genome	12/28/22	Gingival crevicular fluid	Spain: Galicia	GCF_027474905.1
+Parvimonas_micra_GCF_027474925_1	Complete Genome	12/28/22	Colon adenocarcinoma	Spain: Galicia	GCF_027474925.1
+Parvimonas_micra_GCF_027474945_1	Complete Genome	12/28/22	Gingival crevicular fluid	Spain: Galicia	GCF_027474945.1
+Parvimonas_micra_GCF_027474965_1	Complete Genome	12/28/22	Gingival crevicular fluid	Spain: Galicia	GCF_027474965.1
+Parvimonas_micra_GCF_027474985_1	Complete Genome	12/28/22	Colon adenocarcinoma	Spain: Galicia	GCF_027474985.1
+Parvimonas_micra_GCF_027475005_1	Complete Genome	12/28/22	Gingival crevicular fluid	Spain: Galicia	GCF_027475005.1
+Parvimonas_micra_GCF_027475025_1	Complete Genome	12/28/22	Colon adenocarcinoma	Spain: Galicia	GCF_027475025.1
+Parvimonas_micra_GCF_035282285_1	Contig	1/9/24	NA	missing	GCF_035282285.1
+Parvimonas_micra_GCF_035282305_1	Contig	1/9/24	NA	missing	GCF_035282305.1
+Parvimonas_micra_GCF_035282325_1	Contig	1/9/24	NA	missing	GCF_035282325.1
+Parvimonas_micra_GCF_037482165_1	Complete Genome	3/24/24	Dental Abscess	USA:Portland	GCF_037482165.1
+Parvimonas_micra_GCF_057248045_1	Scaffold	5/6/26	oral cavity	China	GCF_057248045.1
+Parvimonas_micra_GCF_057632065_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057632065.1
+Parvimonas_micra_GCF_057632385_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057632385.1
+Parvimonas_micra_GCF_057632585_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057632585.1
+Parvimonas_micra_GCF_057632605_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057632605.1
+Parvimonas_micra_GCF_057632645_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057632645.1
+Parvimonas_micra_GCF_057635575_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057635575.1
+Parvimonas_micra_GCF_057637175_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057637175.1
+Parvimonas_micra_GCF_057646395_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057646395.1
+Parvimonas_micra_GCF_057647115_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057647115.1
+Parvimonas_micra_GCF_057647375_1	Contig	5/19/26	Human nasopharynx	China:Guangdong	GCF_057647375.1
+Parvimonas_micra_GCF_905373815_1	Contig	3/26/21	not provided	not provided	GCF_905373815.1
+Parvimonas_micra_GCF_938030085_1	Contig	1/9/23	human gut metagenome	China	GCF_938030085.1
+Parvimonas_micra_GCF_963536325_1	Contig	10/1/23	saliva	not provided	GCF_963536325.1
+Parvimonas_micra_GCF_963544325_1	Contig	10/1/23	saliva	Papua New Guinea	GCF_963544325.1
+Parvimonas_micra_GCF_976991135_1	Contig	11/9/25	submucosal plaque	China	GCF_976991135.1
+Parvimonas_micra_GCF_977000515_1	Contig	11/9/25	oral sample	USA	GCF_977000515.1
+Parvimonas_micra_GCF_977003625_1	Contig	11/9/25	saliva	China	GCF_977003625.1
+Parvimonas_micra_GCF_977006265_1	Contig	11/9/25	saliva	Spain	GCF_977006265.1
+Parvimonas_micra_GCF_977041045_1	Scaffold	11/13/25	saliva material	Central African Republic	GCF_977041045.1
+Parvimonas_micra_GCF_977073895_1	Contig	12/5/25	intestine	Spain	GCF_977073895.1
+Parvimonas_micra_GCF_977957545_1	Contig	1/21/26	intestine	China	GCF_977957545.1
+Parvimonas_micra_GCF_977977625_1	Contig	1/24/26	intestine	China	GCF_977977625.1
+Parvimonas_micra_GCF_977980005_1	Contig	1/21/26	intestine	China	GCF_977980005.1
+Parvimonas_micra_GCF_978007665_1	Contig	1/24/26	intestine	Germany	GCF_978007665.1
+Parvimonas_micra_GCF_981439625_1	Contig	3/1/26	intestine	Turkey	GCF_981439625.1
+Parvimonas_micra_GCF_982258625_1	Contig	3/13/26	intestine	Italy	GCF_982258625.1
+Parvimonas_micra_GCF_982321985_1	Contig	3/22/26	intestine	Italy	GCF_982321985.1
+Parvimonas_micra_GCF_982336365_1	Contig	3/22/26	intestine	Italy	GCF_982336365.1
+Parvimonas_micra_GCF_982414355_1	Contig	4/13/26	intestine	Japan	GCF_982414355.1
+Parvimonas_micra_GCF_982712475_1	Contig	5/15/26	nasopharyngeal carcinoma	China	GCF_982712475.1
+Parvimonas_micra_GCF_982715135_1	Contig	5/15/26	nasopharyngeal carcinoma	China	GCF_982715135.1
+Parvimonas_micra_GCF_982723785_1	Contig	6/1/26	nasopharyngeal carcinoma	China	GCF_982723785.1
+Parvimonas_micra_GCF_982726745_1	Contig	6/2/26	nasopharyngeal carcinoma	China	GCF_982726745.1
+Parvimonas_micra_GCF_982726925_1	Contig	5/15/26	nasopharyngeal carcinoma	China	GCF_982726925.1
+Parvimonas_micra_GCF_982727575_1	Contig	5/15/26	nasopharyngeal carcinoma	China	GCF_982727575.1
+Parvimonas_micra_GCF_982727605_1	Contig	6/2/26	nasopharyngeal carcinoma	China	GCF_982727605.1
+Parvimonas_micra_GCF_982728295_1	Contig	6/2/26	nasopharyngeal carcinoma	China	GCF_982728295.1
+Parvimonas_micra_GCF_982758975_1	Contig	5/15/26	nasopharyngeal carcinoma	China	GCF_982758975.1
+Parvimonas_micra_GCF_982759275_1	Contig	5/15/26	nasopharyngeal carcinoma	China	GCF_982759275.1
+Parvimonas_micra_GCA_060115635_1	Scaffold	8/15/26	pleural effusion	China: Shanghai	GCA_060115635.1
+Parvimonas_micra_GCA_905198105_1	Contig	2/3/21	human gut	China	GCA_905198105.1
+Parvimonas_micra_GCA_963535555_1	Contig	10/1/23	saliva	not provided	GCA_963535555.1
+Parvimonas_micra_GCA_963544005_1	Contig	10/1/23	teeth	USA	GCA_963544005.1
+Parvimonas_micra_GCA_963546215_1	Contig	10/1/23	subgingival plaque	Hong Kong	GCA_963546215.1
+Parvimonas_micra_GCA_963546595_1	Contig	10/1/23	saliva	Denmark	GCA_963546595.1
+Parvimonas_micra_GCA_965242345_1	Contig	4/14/25	oral sample	Germany	GCA_965242345.1
+Parvimonas_micra_GCA_977003035_1	Contig	11/9/25	saliva	China	GCA_977003035.1
+Parvimonas_micra_GCA_981636415_1	Contig	3/1/26	human gut metagenome	Italy	GCA_981636415.1
+Parvimonas_micra_GCA_982144895_1	Contig	8/14/26	missing	missing	GCA_982144895.1
+Parvimonas_micra_GCA_982282375_1	Scaffold	5/1/26	saliva	Papua New Guinea	GCA_982282375.1
+Parvimonas_micra_GCA_982285655_1	Scaffold	5/1/26	saliva	Papua New Guinea	GCA_982285655.1
+Parvimonas_micra_GCA_982288725_1	Scaffold	4/30/26	saliva	Papua New Guinea	GCA_982288725.1
+Parvimonas_micra_GCA_982351305_1	Contig	5/1/26	dental calculus	United Kingdom	GCA_982351305.1
+Parvimonas_micra_GCA_982399395_1	Contig	4/13/26	human gut metagenome	Japan	GCA_982399395.1
+Parvimonas_micra_A293_GCF_000493795_1	Scaffold	10/28/13	abdominal abscess	United Kingdom	GCF_000493795.1
+Parvimonas_micra_ATCC_33270_GCF_000154405_1	Scaffold	9/12/07	missing	not determined	GCF_000154405.1
+Parvimonas_oralis_GCF_047608425_1	Contig	2/10/25	Throat swabs of coal miners.	"China: Lvliang City,Shanxi Province"	GCF_047608425.1
+Parvimonas_oralis_GCF_047608465_1	Contig	2/10/25	Throat swabs of coal miners.	"China: xinzhou city,Shanxi Province"	GCF_047608465.1
+Parvimonas_oralis_GCF_050262155_1	Complete Genome	5/7/25	Throat swabs of coal miners	"China:LvLiang City, Shanxi Province"	GCF_050262155.1
+Parvimonas_oralis_GCF_977017665_1	Complete Genome	10/30/25	NA	China	GCF_977017665.1
+Parvimonas_parva_GCF_045866535_1	Complete Genome	10/3/24	NA	Japan	GCF_045866535.1
+Parvimonas_parva_GCF_016552165_1	Scaffold	1/6/21	NA	Germany	GCF_016552165.1
+Parvimonas_pharyngis_GCF_046569675_1	Contig	1/8/25	Throat swabs of coal miners	"China: Lvliang city, Shanxi Province"	GCF_046569675.1
+Parvimonas_pharyngis_GCF_046569705_1	Contig	1/8/25	Throat swabs of coal miners	"China: Lvliang city, Shanxi Province"	GCF_046569705.1
+Parvimonas_pharyngis_GCF_050262165_1	Complete Genome	5/7/25	Throat swabs of coal miners	"China: LvLiang City, Shanxi Province"	GCF_050262165.1
+Parvimonas_pharyngis_GCF_977017655_1	Scaffold	11/7/25	NA	China	GCF_977017655.1
+Parvimonas_sp__GCF_015263255_1	Scaffold	11/6/20	saliva	USA: UCLA School of Dentistry	GCF_015263255.1
+Parvimonas_sp__GCF_022770425_1	Contig	3/31/22	feces	Canada:Lacombe	GCF_022770425.1
+Parvimonas_sp__GCF_034090885_1	Contig	12/4/23	feces	Canada: Lacombe	GCF_034090885.1
+Parvimonas_sp__GCF_057247945_1	Scaffold	5/6/26	oral cavity	China	GCF_057247945.1
+Parvimonas_sp__GCF_057247965_1	Scaffold	5/6/26	oral cavity	USA	GCF_057247965.1
+Parvimonas_sp__GCF_057247985_1	Scaffold	5/6/26	oral cavity	USA	GCF_057247985.1
+Parvimonas_sp__GCF_057248005_1	Scaffold	5/6/26	oral cavity	USA	GCF_057248005.1
+Parvimonas_sp__GCF_982284105_1	Scaffold	5/1/26	saliva	Papua New Guinea	GCF_982284105.1
+Parvimonas_sp__GCF_982285095_1	Scaffold	5/1/26	saliva	Papua New Guinea	GCF_982285095.1
+Parvimonas_sp__GCF_982287905_1	Scaffold	5/1/26	saliva	Papua New Guinea	GCF_982287905.1
+Parvimonas_sp__GCA_015257355_1	Scaffold	11/6/20	saliva	USA: UCLA School of Dentistry	GCA_015257355.1
+Parvimonas_sp__GCA_015257405_1	Scaffold	11/6/20	saliva	USA: UCLA School of Dentistry	GCA_015257405.1
+Parvimonas_sp__GCA_015263205_1	Contig	11/6/20	saliva	USA: UCLA School of Dentistry	GCA_015263205.1
+Parvimonas_sp__GCA_982195635_1	Scaffold	4/30/26	dental plaque	Cameroon	GCA_982195635.1
+Parvimonas_sp__GCA_982204635_1	Contig	4/30/26	dental plaque	Cameroon	GCA_982204635.1
+Parvimonas_sp__GCA_982211645_1	Contig	4/30/26	dental plaque	Cameroon	GCA_982211645.1
+Parvimonas_sp__GCA_982219165_1	Contig	4/30/26	dental plaque	Cameroon	GCA_982219165.1
+Parvimonas_sp__GCA_982351375_1	Contig	5/1/26	dental calculus	United Kingdom	GCA_982351375.1
+Parvimonas_sp__GCA_982357625_1	Contig	4/30/26	dental calculus	Spain	GCA_982357625.1
+Parvimonas_sp__GCA_982364795_1	Contig	5/1/26	dental calculus	Italy	GCA_982364795.1
+Parvimonas_sp__GCA_982364895_1	Contig	4/30/26	dental calculus	Sweden	GCA_982364895.1
+Parvimonas_sp__GCA_982365375_1	Contig	5/1/26	dental calculus	Sweden	GCA_982365375.1
+Parvimonas_sp__GCA_982366585_1	Contig	5/2/26	dental calculus	Sweden	GCA_982366585.1
+Parvimonas_sp__GCA_982366625_1	Contig	4/30/26	dental calculus	Italy	GCA_982366625.1
+Parvimonas_sp__GCA_982369055_1	Contig	4/30/26	dental calculus	Sweden	GCA_982369055.1
+Parvimonas_sp__GCA_982369775_1	Contig	4/30/26	dental calculus	Sweden	GCA_982369775.1
+Parvimonas_sp__GCA_982370665_1	Contig	5/4/26	dental calculus	Sweden	GCA_982370665.1
+Parvimonas_sp__GCA_986148545_1	Contig	6/28/26	human gut metagenome	USA	GCA_986148545.1
+Parvimonas_sp__C2_GCF_035282405_1	Contig	1/9/24	NA	missing	GCF_035282405.1
+Parvimonas_sp__D2_GCF_035282635_1	Contig	1/9/24	NA	missing	GCF_035282635.1
+Parvimonas_sp__D4_GCF_035282345_1	Contig	1/9/24	NA	missing	GCF_035282345.1
+Parvimonas_sp__D9_GCF_035282565_1	Contig	1/9/24	NA	missing	GCF_035282565.1
+Parvimonas_sp__JM503A11_GCF_062004069_1	Complete Genome	9/28/26	odontogenic abscess	"USA: Portland, Oregon"	GCF_062004069.1
+Parvimonas_sp__KA00067_GCF_001553085_1	Scaffold	2/8/16	vagina	NA	GCF_001553085.1
+Parvimonas_sp__M13_GCF_035282445_1	Contig	1/9/24	NA	missing	GCF_035282445.1
+Parvimonas_sp__M20_GCF_035282425_1	Contig	1/9/24	NA	missing	GCF_035282425.1
+Parvimonas_sp__oral_taxon_110_str__F0139_GCA_000214475_2	Contig	5/23/11	NA	not determined	GCA_000214475.2
+Parvimonas_sp__oral_taxon_393_str__F0440_GCF_000223315_1	Contig	8/10/11	NA	not determined	GCF_000223315.1
+Parvimonas_sp__oral_taxon_393_str__F0440_GCA_000223315_2	Contig	8/10/11	NA	not determined	GCA_000223315.2
+JM503CC1	Complete Genome	1/1/26	human intratumoral oral cancer	"USA: Portland, Oregon"	NA
+JM503OC4	Complete Genome	7/1/26	human intratumoral oral cancer	"USA: Portland, Oregon"	NA
+JM503A16	Complete Genome	8/1/23	human odontogenic abscess	"USA: Portland, Oregon"	NA
+JM503A	Complete Genome	8/1/19	human odontogenic abscess	"USA: Portland, Oregon"	NA
+Finegoldia_magna	Complete Genome	6/1/24	human feces	"USA: Portland, Oregon"	NA
+JM503A1	Contig	1/6/26	human odontogenic abscess	Japan	NA
+JM503A11	Complete Genome	8/1/19	human odontogenic abscess	"USA: Portland, Oregon"	NA
+JM503A42	Complete Genome	8/1/19	human odontogenic abscess	"USA: Portland, Oregon"	NA
+JM503A3	Complete Genome	8/1/19	human odontogenic abscess	"USA: Portland, Oregon"	NA
+JM503A82	Complete Genome	8/1/24	human odontogenic abscess	"USA: Portland, Oregon"	NA
