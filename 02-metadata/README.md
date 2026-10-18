@@ -1,4 +1,4 @@
-## 2. Metadata
+## 02. Metadata
 
 ```bash
 datasets summary genome taxon "Parvimonas" --as-json-lines --assembly-source all > parvimonas-metadata-all.jsonl

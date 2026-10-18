@@ -1,4 +1,4 @@
-## 3. Pangenome construction (anvi'o)
+## 03. Pangenome construction (anvi'o)
 
 The anvi'o pangenomics workflow was run with a customized `pan-default.json` (threads and job counts adjusted, available in this folder):
 

@@ -1,4 +1,4 @@
-## GTDB-Tk based phylogenetic analysis
+## 09. GTDB-Tk analysis
 
 Using the script `run_gtdb_classify.sh`, the `classify_wf` pipeline from GTDB-Tk v2.8.0 (PMID: 31730192) was used to place the genomes reported in this study into the GTDB phylogenetic tree (Release 232)(PMID: 41123020). The results `gtdbtk.bac120.summary.tsv` are available in this folder.
 

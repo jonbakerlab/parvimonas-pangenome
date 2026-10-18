@@ -1,4 +1,4 @@
-## 1. Genome retrieval and curation
+## 01. Genome retrieval and curation
 
 - `ncbi-genome-download` listed 97 *Parvimonas* genomes in RefSeq and 144 in GenBank.
 - Genomes present in both databases were de-duplicated in Excel, keeping the RefSeq version.

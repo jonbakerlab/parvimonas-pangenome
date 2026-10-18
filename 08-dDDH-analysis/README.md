@@ -1,4 +1,4 @@
-## Digital DNA-DNA hybridization (dDDH) analysis
+## 08. dDDH analysis
 
 dDDH analysis was calculated using the Type (Strain) Genome Server (TYGS)(https://tygs.dsmz.de) inputting a subset of 7 genomes: 
 ||

@@ -1,4 +1,4 @@
-## Phylogenomics based on amino acid sequences of single copy core genes 
+## 07. Core genes phylogeny
 
 The pangenome was used to create a bespoke panel of single-copy core genes with which to perform phylogenomic analysis. Across the pangenome containing 142 genomes, a search for single copy core genes yielded zero genes, likely due to either incomplete genomes or over-splitting of gene clusters by `anvi-pan-genome`.  Iterative decreasing of the number of genomes required produced the following:
 
