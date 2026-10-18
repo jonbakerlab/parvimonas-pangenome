@@ -1,8 +1,6 @@
 ## 09. GTDB-Tk analysis
 
-Using the script `run_gtdb_classify.sh`, the `classify_wf` pipeline from GTDB-Tk v2.8.0 (PMID: 31730192) was used to place the genomes reported in this study into the GTDB phylogenetic tree (Release 232)(PMID: 41123020). The results `gtdbtk.bac120.summary.tsv` are available in this folder.
-
-The Results are summarized below:
+Using the script `run_gtdb_classify.sh`, the `classify_wf` pipeline from GTDB-Tk v2.8.0 (PMID: 31730192) was used to place the genomes reported in this study into the GTDB phylogenetic tree (Release 232)(PMID: 41123020). The results are `gtdbtk.bac120.summary.tsv` are summarized here:
 
 | user_genome | classification | closest_genome_reference | closest_genome_reference_radius | closest_genome_taxonomy | closest_genome_ani | closest_genome_af | closest_placement_reference | closest_placement_radius | closest_placement_taxonomy | closest_placement_ani | closest_placement_af | pplacer_taxonomy | classification_method | note | other_related_references(genome_id,species_name,radius,ANI,AF) | msa_percent | translation_table | red_value | warnings |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
