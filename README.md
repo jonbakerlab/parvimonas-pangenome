@@ -5,16 +5,17 @@ Companion repository for the *Parvimonas* pangenome manuscript (jonbakerlab/parv
 > Items marked **TODO** need to be filled in by the authors (versions, parameters, citations).
 
 ## Overview
+Each analysis step is documented in its own folder, alongside its associated data files:
 
-1. Genome retrieval and curation (NCBI RefSeq and GenBank)
-2. Metadata retrieval and formatting
-3. Pangenome construction with anvi'o
-4. Metadata and genome-list filtering
-5. 16S rRNA extraction and phylogeny
-6. ANI clustermap
-7. Core genes phylogeny
-8. dDDH analysis
-9. GTDB-Tk analysis
+1. [Genome retrieval and curation](01-genome-retrieval/)
+2. [Metadata](02-metadata/README.md)
+3. [Pangenome construction (anvi'o)](03-pangenome/README.md)
+4. [Filtering metadata and genome lists](04-filtering/README.md)
+5. [16S rRNA analysis](05-16S-rRNA/README.md)
+6. [ANI clustermap](06-ANI-clustermap/README.md)
+7. [Core genes phylogeny](07-core-genes-phylogeny/README.md)
+8. [dDDH analysis](08-dDDH-analysis/README.md)
+9. [GTDB-Tk analysis](09-GTDB-Tk-analysis/README.md)
 
 ## Software
 
@@ -32,17 +33,7 @@ Companion repository for the *Parvimonas* pangenome manuscript (jonbakerlab/parv
 
 ## Section documentation
 
-Each analysis step is documented in its own folder, alongside its associated data files:
 
-1. [Genome retrieval and curation](01-genome-retrieval/README.md)
-2. [Metadata](02-metadata/README.md)
-3. [Pangenome construction (anvi'o)](03-pangenome/README.md)
-4. [Filtering metadata and genome lists](04-filtering/README.md)
-5. [16S rRNA analysis](05-16S-rRNA/README.md)
-6. [ANI clustermap](06-ANI-clustermap/README.md)
-7. [Core genes phylogeny](07-core-genes-phylogeny/README.md)
-8. [dDDH analysis](08-dDDH-analysis/README.md)
-9. [GTDB-Tk analysis](09-GTDB-Tk-analysis/README.md)
 
 ## Repository contents
 
