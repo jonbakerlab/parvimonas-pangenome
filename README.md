@@ -1,6 +1,6 @@
 # Parvimonas pangenome: workflow and analysis notes
 
-Companion repository for the *Parvimonas* pangenome manuscript (jonbakerlab/parvimonas-pangenome). This document describes how the genome set was assembled, how the pangenome was built, and how the downstream 16S rRNA and ANI analyses were produced. The original command log is in `october-scripts.sh`.
+Companion repository for the *Parvimonas* pangenome manuscript (jonbakerlab/parvimonas-pangenome). This document describes how the genome set was assembled, how the pangenome was built, and how the downstream analyses were performed.
 
 > Items marked **TODO** need to be filled in by the authors (versions, parameters, citations).
 
@@ -12,6 +12,9 @@ Companion repository for the *Parvimonas* pangenome manuscript (jonbakerlab/parv
 4. Metadata and genome-list filtering
 5. 16S rRNA extraction and phylogeny
 6. ANI clustermap
+7. Core genes phylogeny
+8. dDDH analysis
+9. GTDB-Tk analysis
 
 ## Software
 
@@ -37,6 +40,9 @@ Each analysis step is documented in its own folder, alongside its associated dat
 4. [Filtering metadata and genome lists](04-filtering/README.md)
 5. [16S rRNA analysis](05-16S-rRNA/README.md)
 6. [ANI clustermap](06-ANI-clustermap/README.md)
+7. [Core genes phylogeny](07-core-genes-phylogeny/README.md)
+8. [dDDH analysis](08-dDDH-analysis/README.md)
+9. [GTDB-Tk analysis](09-GTDB-Tk-analysis/README.md)
 
 ## Repository contents
 
@@ -49,4 +55,4 @@ Each analysis step is documented in its own folder, alongside its associated dat
 | `ani-output/` | ANIb tables and trees |
 | `make_ani_clustermap.py`, `parvimonas_ANI_clustermap.pdf` | ANI clustermap script and figure |
 
-Data files and scripts listed above belong with the section folders (`01-genome-retrieval/` to `06-ANI-clustermap/`) that describe them; file names in the section notes are relative to the project root where the commands were run.
+Data files and scripts listed above belong with the section folders (`01-genome-retrieval/` to `09-GTDB-Tk-analysis/`) that describe them; file names in the section notes are relative to the project root unless otherwise stated.
