@@ -22,7 +22,7 @@ Findings:
 iqtree2 -s 16S_representatives_aligned.fa -m MFP -B 1000 -T AUTO -o Finegoldia_magna
 ```
 
-The following is a table of the percent identity between the 16S sequences:
+The following is a table of the percent identity between the 16S sequences, created using `16S_percent_identity_matrix.py`:
 
 | Genome | Parvimonas_micra_GCF_000800295_1 | Parvimonas_micra_GCF_900637905_1 | Parvimonas_micra_GCF_027475005_1 | Parvimonas_micra_GCF_027475025_1 | JM503A82 | Parvimonas_micra_GCF_003454775_1 | JM503CC1 | Parvimonas_micra_GCF_027474905_1 | Parvimonas_micra_GCF_027474925_1 | Parvimonas_micra_GCF_027474945_1 | Parvimonas_micra_GCF_027474985_1 | Parvimonas_micra_GCF_027474965_1 | Parvimonas_oralis_GCF_050262155_1 | Parvimonas_oralis_GCF_977017665_1 | Parvimonas_parva_GCF_045866535_1 | Parvimonas_pharyngis_GCF_050262165_1 | Parvimonas_micra_GCF_037482165_1 | JM503A | JM503A42 | JM503A3 | JM503OC4 | JM503A16 | Parvimonas_sp__JM503A11_GCF_062004069_1 | JM503A11 | Finegoldia_magna |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
